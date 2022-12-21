@@ -1,0 +1,11 @@
+D:\ProjectsVisual\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe.config
+D:\ProjectsVisual\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+D:\ProjectsVisual\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.AssemblyReference.cache
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.SuggestedBindingRedirects.cache
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Form1.resources
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.cache
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.CoreCompileInputs.cache
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+D:\ProjectsVisual\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
