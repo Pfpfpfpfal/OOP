@@ -1,0 +1,55 @@
+D:\ProjectsVisual\Paint\Paint\bin\Debug\Paint.exe.config
+D:\ProjectsVisual\Paint\Paint\bin\Debug\Paint.exe
+D:\ProjectsVisual\Paint\Paint\bin\Debug\Paint.pdb
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.exe
+D:\ProjectsVisual\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Эльдо\Downloads\OOP-main (1)\OOP-main\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Эльдо\Downloads\Telegram Desktop\Paint\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Эльдо\Downloads\OOP-main (2)\OOP-main\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Caution\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Caution\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Caution\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Caution\Desktop\Paint\Paint\obj\Debug\Paint.pdb
